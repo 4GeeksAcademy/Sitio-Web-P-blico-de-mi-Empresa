@@ -1,0 +1,37 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Nexova Solutions hero</title>
+  <desc id="heroDesc">Ilustracion abstracta con paneles, personas y metricas para representar talento, soporte y formacion corporativa.</desc>
+  <rect width="1200" height="900" rx="48" fill="#EFF6FF"/>
+  <circle cx="174" cy="166" r="96" fill="#DBEAFE"/>
+  <circle cx="1003" cy="178" r="122" fill="#BFDBFE"/>
+  <circle cx="1017" cy="708" r="148" fill="#E0F2FE"/>
+  <rect x="88" y="110" width="1024" height="680" rx="40" fill="white"/>
+  <rect x="138" y="162" width="370" height="240" rx="28" fill="#F8FAFC" stroke="#DBEAFE" stroke-width="4"/>
+  <rect x="170" y="198" width="180" height="22" rx="11" fill="#2563EB" fill-opacity="0.16"/>
+  <rect x="170" y="238" width="296" height="16" rx="8" fill="#CBD5E1"/>
+  <rect x="170" y="268" width="250" height="16" rx="8" fill="#CBD5E1"/>
+  <rect x="170" y="312" width="104" height="46" rx="23" fill="#2563EB"/>
+  <rect x="294" y="312" width="128" height="46" rx="23" fill="#E0F2FE"/>
+  <rect x="546" y="162" width="516" height="390" rx="32" fill="#F8FAFC" stroke="#DBEAFE" stroke-width="4"/>
+  <rect x="594" y="212" width="136" height="136" rx="24" fill="#2563EB"/>
+  <path d="M638 292L676 250L705 279L742 237" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="760" y="218" width="250" height="20" rx="10" fill="#1E3A8A" fill-opacity="0.12"/>
+  <rect x="760" y="256" width="210" height="16" rx="8" fill="#CBD5E1"/>
+  <rect x="760" y="286" width="182" height="16" rx="8" fill="#CBD5E1"/>
+  <rect x="594" y="388" width="416" height="116" rx="24" fill="white" stroke="#E2E8F0" stroke-width="4"/>
+  <rect x="628" y="424" width="98" height="44" rx="22" fill="#0EA5E9" fill-opacity="0.16"/>
+  <rect x="748" y="424" width="222" height="14" rx="7" fill="#CBD5E1"/>
+  <rect x="748" y="452" width="188" height="14" rx="7" fill="#CBD5E1"/>
+  <rect x="138" y="446" width="370" height="292" rx="28" fill="#2563EB"/>
+  <circle cx="232" cy="540" r="48" fill="white" fill-opacity="0.18"/>
+  <circle cx="232" cy="522" r="18" fill="white"/>
+  <path d="M188 592C197 562 222 542 252 542C282 542 307 562 316 592" fill="white"/>
+  <rect x="346" y="506" width="114" height="14" rx="7" fill="white" fill-opacity="0.74"/>
+  <rect x="346" y="536" width="82" height="14" rx="7" fill="white" fill-opacity="0.58"/>
+  <rect x="190" y="638" width="268" height="18" rx="9" fill="white" fill-opacity="0.34"/>
+  <rect x="190" y="672" width="222" height="18" rx="9" fill="white" fill-opacity="0.22"/>
+  <rect x="546" y="596" width="516" height="142" rx="28" fill="#F8FAFC" stroke="#DBEAFE" stroke-width="4"/>
+  <rect x="594" y="640" width="124" height="50" rx="25" fill="#2563EB"/>
+  <rect x="738" y="650" width="274" height="16" rx="8" fill="#CBD5E1"/>
+  <rect x="738" y="680" width="244" height="16" rx="8" fill="#CBD5E1"/>
+</svg>
